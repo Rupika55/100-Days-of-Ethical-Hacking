@@ -13,6 +13,13 @@ Ethical hacking is about understanding systems, networks, and attacker methodolo
 ## Notes
 These are my personal learning notes from Day 1 of the 100 Days Ethical Hacking Challenge.
 
+Learning via **Skills Uprise**  
+Mentored by **Manoj Kumar**
+
+- LinkedIn: https://www.linkedin.com/company/skills-uprise
+- CEO: https://www.linkedin.com/in/manoj-kumar
+
+
 ![Day-1 thumbnail](https://github.com/user-attachments/assets/8797209a-b2ab-4cfd-a3c8-dfc7ac9700aa)
 ![01](https://github.com/user-attachments/assets/71372b51-3e39-4183-827c-472e530cc198)
 ![02](https://github.com/user-attachments/assets/83953172-f824-4a5a-813d-6929f18fd779)
