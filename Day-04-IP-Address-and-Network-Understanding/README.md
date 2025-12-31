@@ -27,5 +27,6 @@ IP addresses quietly shape how networks function.
 Understanding them helps in reading network behavior, scale, and structure — a crucial skill in cybersecurity.
 
 Learning via Skills Uprise Mentored by Manoj Kumar
+
 LinkedIn: https://www.linkedin.com/company/skills-uprise
 CEO: https://www.linkedin.com/in/manoj-kumar
