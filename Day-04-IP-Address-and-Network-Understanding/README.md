@@ -29,4 +29,31 @@ Understanding them helps in reading network behavior, scale, and structure — a
 Learning via Skills Uprise Mentored by Manoj Kumar
 
 LinkedIn: https://www.linkedin.com/company/skills-uprise
+
 CEO: https://www.linkedin.com/in/manoj-kumar
+
+![What is IP](images/01.jpeg)
+
+![Types of ip static and dynamic](images/02.jpeg)
+
+![Versions of ip ipv4,ipv6](images/03.jpeg)
+
+![Internal and External ip](images/04.jpeg)
+
+![Internal and External ip](images/05.jpeg)
+
+![Private ip ranges](images/06.jpeg)
+
+![What is IP](images/day4-what-is-ip.png)
+
+![Types of ip static and dynamic](images/day4-static-dynamic-ip.png)
+
+![Versions of ip](images/day-4-versions-ip.png)
+
+![Private and public ip](images/day-4-public-private.png)
+
+![Private ip range](images/private-ip-range-matter.png)
+
+![network range](images/ip-identidy-based-network-matter.png)
+
+
