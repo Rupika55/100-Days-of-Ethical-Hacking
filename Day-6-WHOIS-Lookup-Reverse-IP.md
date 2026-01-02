@@ -26,8 +26,16 @@ LinkedIn: https://www.linkedin.com/company/skills-uprise
 CEO: https://www.linkedin.com/in/manoj-kumar
 
 
----->
-▶️ [Click here to watch the demo video](images/day-6-vedio.mp4)
+
+
+
+![Day 6 Thumbnail](images/Day6_Insta_Thumbnail.png)
+![Whois Thumbnail](images/whois-thumbnail.png)
+![Whois Matter](images/whois-matter.png)
+![Reverse IP Thumbnail](images/reverseip-thumbnail.png)
+![Reverse IP Matter](images/reverseip-matter.png)
+![Servers Thumbnail](images/servers-thumbnail.png)
+![Servers Matter](images/servers-matter.png)
 
 
 
