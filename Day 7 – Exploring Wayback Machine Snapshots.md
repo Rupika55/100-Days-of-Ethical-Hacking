@@ -21,3 +21,16 @@ Experiment:-
  No real websites were used, following ethical guidelines.
 
 -->Lesson Learned:Historical snapshots can reveal patterns, deleted content, and timelines — essential knowledge for ethical hacking and investigations.
+
+Learning via Skills Uprise Mentored by Manoj Kumar
+
+LinkedIn: https://www.linkedin.com/company/skills-uprise
+
+CEO: https://www.linkedin.com/in/manoj-kumar
+
+![Day 7 thumbnail](images/Day-7-thumbnail.png)
+![Waybackmatter](images/Wayback-matter.png)
+![wayback-02](images/wayback-02.jpeg)
+![wayback-03](images/wayback-03.jpeg)
+![wayback-04](images/wayback-04.jpeg)
+![wayback-05](images/wayback-05.jpeg)
